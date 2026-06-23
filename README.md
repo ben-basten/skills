@@ -1,3 +1,3 @@
 # skills
 
-A collection of skills that I've found useful.
+A collection of AI agent skills that I've found useful.
